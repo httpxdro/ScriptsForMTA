@@ -1,0 +1,9 @@
+<meta>
+    <info author="httpxdro"
+    version="1.0"
+    name="Pedro"
+    description="Comando de dar god, você escolhe a vida entre 0-100" />
+
+    <script src="server.lua" type="server"/>
+
+</meta>
